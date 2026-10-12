@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-**I'm Kátia (she, her)**, I am a developer, web designer and typography lover. I live in São Paulo, Brazil. Currently, I study Systems Analysis and Development at IFSP. I am passionate about technology and design, and I like to talk about it on my blog  "[Blog](https://www.katiareis.com/blog)", where I also talk about my projects and marketing stuff. If you want to know more about work, see my Instagram "[KReis Studio Web](https://www.instagram.com/kreisstudioweb/)".
+**I'm Kátia (she, her)**, I am a developer, web designer and typography lover. I live in São Paulo, Brazil. Currently, I study Systems Analysis and Development at IFSP. I am passionate about technology and design, and I like to talk about it on my blog  "[Blog](https://katiareis.com.br/portfolio-web)", where I also talk about my projects and marketing stuff. If you want to know more about work, see my Behance "[DevK Studio Web](https://www.behance.net/katiareis_webdesign)".
 
 
 <h3 align="left">Connect with me:</h3>
